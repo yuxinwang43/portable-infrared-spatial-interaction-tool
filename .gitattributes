@@ -1,0 +1,12 @@
+*.unity text eol=lf
+*.asset text eol=lf
+*.meta text eol=lf
+*.cs text eol=lf
+*.py text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.PcbDoc binary
+*.SchDoc binary
+*.PrjPcb binary
+*.PrjPcbStructure binary
+*.stl binary

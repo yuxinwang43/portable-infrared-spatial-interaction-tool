@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.mypy_cache/
+*.egg-info/
+
+# Tracker output
+tracking/screenshot_*.png
+tracking/output_tracking.mp4
+tracking/coordinates_log.csv
+
+# Unity generated and user-local files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.csproj
+*.sln
+*.user
+*.unityproj
+
+# Altium local backups and caches
+__Previews/
+History/
+*.SchDocPreview
+*.PcbDocPreview
+*.PrjPcbStructure~
+
+# macOS and editors
+.DS_Store
+._*
+*.swp
+*.swo
+.idea/
+.vscode/
